@@ -13,7 +13,7 @@ main div.main_wrap{
   }
   
   main div.main_wrap p{
-    background-image: url(imagecopy.jpg);
+    background-image: url(/imagecopy.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
