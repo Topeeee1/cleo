@@ -10,10 +10,12 @@ main div.main_wrap{
     display: flex;
     align-items: flex-end;
     justify-content: center;
-  }
+  }[InternetShortcut]
+URL=https://github.com/Topeeee1/cleo/blob/main/style.css
+
   
   main div.main_wrap p{
-    background-image: url(/imagecopy.jpg);
+    background-image: url(imagecopy.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
